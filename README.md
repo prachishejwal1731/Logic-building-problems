@@ -12,3 +12,5 @@ This repository contains various pattern programs implemented in different progr
 ### 2. Number-increasing Pyramid Pattern
 
 ### 3. Reverse right-angled triangle Pattern
+
+### 4. Right-Aligned Right Angled triangle Pattern
