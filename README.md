@@ -16,3 +16,7 @@ This repository contains various pattern programs implemented in different progr
 ### 4. Star-Right-Aligned Right Angled triangle Pattern
 
 ### 5. Star-Sqaure Filled Pattern
+
+### 6. Number-One Zero Right Angled triangle Pattern
+
+### 7. Number-Zero One Right Angled triangle Pattern
